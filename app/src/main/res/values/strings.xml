@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="add_task">New task</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="delete_button">Delete</string>
+    <string name="add_task_hint">Enter task</string>
+    <string name="edit_hint">Enter new name</string>
+    <string name="edit_button">Edit</string>
+    <string name="sample_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in dolor vitae tortor lacinia volutpat. Sed odio magna, interdum vitae purus in, mollis posuere dui. Integer laoreet magna ex, eget ultricies metus faucibus ac.</string>
+</resources>
